@@ -1,0 +1,5 @@
+Dataset, Guitar Type,Transducer, Hexaphonic,Annotated Techniques,Onset annotations,Other Annotations
+Guitar Set, Acoustic,Internal,  Yes,,TRUE,pitch contours-string and fret positions-chords- beats- downbeats- and playing style (Genre)
+IDMT-SMT-Guitar Dataset,Acoustic-Electric,Internal & External,No,3 excitation styles and 6 expression styles,TRUE,chords- rhythmic pattern length- and texture (monophony/polyphony) 
+EGDB,Electric,Internal,Yes,,TRUE (MIDI),Offsets (midi)
+aGPTset, Acoustic, Internal, No, 12, TRUE (for 8 techniques), Pitch- String
