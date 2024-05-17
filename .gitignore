@@ -1,0 +1,7 @@
+*.zip
+__pycache__
+dataset/aGPTset/*
+tests/*
+am24-*-*.py
+test_plot_*.ipynb
+results/
