@@ -112,4 +112,3 @@ dependencies:
       - soxr==0.3.7
       - threadpoolctl==3.4.0
       - urllib3==2.2.1
-prefix: /home/domenico/miniconda3/envs/audiomostly24
